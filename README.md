@@ -23,7 +23,7 @@ User Question → Semantic Retrieval → Context Injection → LLM Generation �
 No hallucinations. Every answer is backed by your documents.
 
 ---
-
+## aws-ec2-url: http://16.16.204.180:8501/
 ## Features
 
 - **Conversational RAG** — Multi-turn memory via Bedrock session IDs
