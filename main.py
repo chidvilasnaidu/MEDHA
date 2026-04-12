@@ -34,9 +34,7 @@ html, body, .stApp {
 .stDeployButton { display: none !important; }
 .block-container { padding: 0 !important; max-width: 100% !important; }
 
-/* ══════════════════════════════
-   HEADER
-══════════════════════════════ */
+
 .medha-header {
     position: fixed;
     top: 0; left: 0; right: 0;
