@@ -179,9 +179,7 @@ section[data-testid="stSidebar"] .stCaptionContainer p {
 }
 .tips-card strong { color: #c9a96e; }
 
-/* ══════════════════════════════
-   MAIN offset
-══════════════════════════════ */
+
 .main > div:first-child { margin-top: var(--header-h) !important; }
 
 .empty-wrap {
