@@ -184,7 +184,6 @@ section[data-testid="stSidebar"] .stCaptionContainer p {
 ══════════════════════════════ */
 .main > div:first-child { margin-top: var(--header-h) !important; }
 
-/* ── empty state ── */
 .empty-wrap {
     display: flex;
     flex-direction: column;
