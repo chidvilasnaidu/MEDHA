@@ -282,7 +282,6 @@ section[data-testid="stSidebar"] .stCaptionContainer p {
     border-radius: 12px !important;
 }
 
-/* ── chat input ── */
 [data-testid="stChatInput"] {
     background: rgba(13,12,20,0.97) !important;
     border-top: 1px solid var(--glass-border) !important;
