@@ -235,7 +235,6 @@ section[data-testid="stSidebar"] .stCaptionContainer p {
     letter-spacing: 0.03em;
 }
 
-/* ── chat bubbles ── */
 [data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarUser"]) {
     background: linear-gradient(135deg, rgba(201,169,110,0.09), rgba(201,169,110,0.04)) !important;
     border: 1px solid rgba(201,169,110,0.16) !important;
