@@ -350,7 +350,6 @@ details summary {
 }
 </style>
 
-<!-- ═══ FIXED HEADER ═══ -->
 <div class="medha-header">
   <div class="brand">
     <div class="brand-bar"></div>
