@@ -109,9 +109,7 @@ html, body, .stApp {
 }
 @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
 
-/* ══════════════════════════════
-   SIDEBAR
-══════════════════════════════ */
+
 section[data-testid="stSidebar"] {
     background: #0d0c18 !important;
     border-right: 1px solid var(--glass-border) !important;
