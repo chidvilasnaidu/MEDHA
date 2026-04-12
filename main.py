@@ -367,7 +367,6 @@ details summary {
   </div>
 </div>
 
-<!-- ═══ FIXED FOOTER ═══ -->
 <div class="medha-footer">
   <div class="footer-l">MEDHA! · ENTERPRISE KNOWLEDGE INTELLIGENCE · v2.0</div>
   <div class="footer-r">
