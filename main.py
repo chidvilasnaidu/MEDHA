@@ -391,7 +391,6 @@ def get_client() -> BedrockKBClient:
         model_id=MODEL_ID
     )
 
-# ── SIDEBAR ───────────────────────────────────────────
 with st.sidebar:
     st.markdown('<div class="sb-title">Settings</div>', unsafe_allow_html=True)
     st.markdown('<div class="sb-sub">Configuration</div>', unsafe_allow_html=True)
