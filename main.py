@@ -25,7 +25,6 @@ st.markdown("""
     --header-h:      56px;
 }
 
-/* ── base reset ── */
 html, body, .stApp {
     background: #0f0e14 !important;
     margin: 0; padding: 0;
