@@ -314,7 +314,6 @@ details summary {
     padding: 8px 14px !important;
 }
 
-/* ── footer ── */
 .medha-footer {
     position: fixed;
     bottom: 0; left: 0; right: 0;
