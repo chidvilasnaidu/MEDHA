@@ -340,7 +340,6 @@ details summary {
 }
 .fa { color: rgba(201,169,110,0.45); }
 
-/* scrollbar */
 ::-webkit-scrollbar { width: 3px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb {
