@@ -418,7 +418,6 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
 
-# ── CHAT AREA ─────────────────────────────────────────
 if not st.session_state.messages:
     st.markdown("""
     <div class="empty-wrap">
