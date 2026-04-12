@@ -305,7 +305,6 @@ section[data-testid="stSidebar"] .stCaptionContainer p {
     outline: none !important;
 }
 
-/* ── expander ── */
 details summary {
     background: rgba(201,169,110,0.04) !important;
     border: 1px solid rgba(201,169,110,0.12) !important;
