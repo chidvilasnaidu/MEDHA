@@ -10,7 +10,7 @@
 
 ---
 
-## What is MEDHA!? bj
+## What is MEDHA!? bjnkn
 
 **MEDHA!** is a production-ready enterprise chatbot that lets your team ask natural language questions against your company's internal documents — and get accurate, cited answers grounded in your actual source material.
 
