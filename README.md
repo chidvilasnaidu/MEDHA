@@ -1,4 +1,4 @@
-# MEDHA! — Enterprise Knowledge Intelligence jj
+# MEDHA! — Enterprise Knowledge Intelligence jjjj
 
 > **M**ulti-document **E**nterprise **D**ata & **H**uman **A**ssistant  
 > A glassmorphism-styled RAG chatbot powered by Amazon Bedrock Knowledge Bases & Nova Pro
