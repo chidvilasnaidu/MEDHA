@@ -1,6 +1,6 @@
 # MEDHA! — Enterprise Knowledge Intelligence 
 > **M**ulti-document **E**nterprise **D**ata & **H**uman **A**ssistant  
-> A glassmorphism-styled RAG chatbot powered by Amazon Bedrock Knowledge Bases & Nova Pro0
+> A glassmorphism-styled RAG chatbot powered by Amazon Bedrock Knowledge Bases & Nova Pro
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
