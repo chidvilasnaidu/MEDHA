@@ -4,14 +4,12 @@ from config import KNOWLEDGE_BASE_ID, REGION, MODEL_ID
 import logging
 # MEDHA 
 logging.basicConfig(level=logging.INFO)
-
 st.set_page_config(
     page_title="MEDHA!",
     page_icon="M",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap');
