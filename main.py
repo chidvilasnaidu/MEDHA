@@ -2,7 +2,7 @@ import streamlit as st
 from bedrock_client import BedrockKBClient, RAGResponse
 from config import KNOWLEDGE_BASE_ID, REGION, MODEL_ID
 import logging
-# MEDHA
+# MEDHA (MULTI
 logging.basicConfig(level=logging.INFO)
 
 st.set_page_config(
