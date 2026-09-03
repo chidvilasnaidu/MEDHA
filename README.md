@@ -78,7 +78,6 @@ No hallucinations. Every answer is backed by your documents.
 | **Fonts** | Playfair Display · DM Sans · Space Mono |
 
 ---
-
 ## Project Structure
 
 ```
