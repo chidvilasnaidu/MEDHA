@@ -87,7 +87,6 @@ medha/
 ├── config.py            # Knowledge Base ID, Region, Model ID
 └── README.md
 ```
-
 ---
 
 ## Setup & Installation
